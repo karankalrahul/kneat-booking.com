@@ -17,10 +17,4 @@ Below are the details of project structure and components:
       * pom : Page Object Model classes for the each web page in the web application
       * steps : Cucumber Step Definitions based on the feature file to cover the test scenarios
         
-        
-        
-      
-        
- 
-
-
+     Execution Results.png shows the JUnit test execution results
